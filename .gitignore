@@ -1,0 +1,4 @@
+.DS_Store
+__pycache__/
+# separate clone of github.com/sahilmahendrakar/paradee (code, 5.9 GB of training data and checkpoints)
+upstream/
